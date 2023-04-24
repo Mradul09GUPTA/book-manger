@@ -6,5 +6,6 @@ HarshDeep Sarvar
 Amaan Ur Rahman
 
 ## Mentored by
-Mr. Upendra Singh
 Dr. Lalit Purohit
+Mr. Upendra Singh
+
