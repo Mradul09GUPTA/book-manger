@@ -7,4 +7,4 @@ Amaan Ur Rahman
 
 ## Mentored by
 Mr. Upendra Singh
-Mr. Lalit Purohit
+Dr. Lalit Purohit
